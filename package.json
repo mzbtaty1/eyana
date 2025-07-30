@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot-eyana",
+  "version": "1.0.0",
+  "description": "واتساب بوت لشركة إيانا تورز سوهاج",
+  "main": "whatsapp-bot-eyana.js",
+  "scripts": {
+    "start": "node whatsapp-bot-eyana.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.15.0",
+    "whatsapp-web.js": "^1.31.0"
+  }
+}
